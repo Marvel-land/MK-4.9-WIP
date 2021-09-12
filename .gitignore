@@ -9,6 +9,12 @@
 #
 # Normal rules
 #
+arch/arm64/configs/final_defconfig
+defconfig
+out/
+anykernel/
+build_kernel.sh
+build-kernel.sh
 .*
 *.o
 *.o.*
